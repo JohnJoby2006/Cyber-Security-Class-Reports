@@ -1,0 +1,83 @@
+Cybersecurity Class – Day 1 Report
+Date: 15-07-2025
+
+Topics Covered:
+Categories of Hackers:
+
+White Hat: Ethical hackers who assist organizations in strengthening security.
+
+Black Hat: Cybercriminals who exploit vulnerabilities for malicious purposes.
+
+Gray Hat: Hackers who may break the law but do not have malicious intent.
+
+Green Hat: Beginners, often eager to learn and experiment with hacking.
+
+Blue Hat: Individuals who carry out attacks out of revenge or act as testers.
+
+Script Kiddies: Novices who rely on pre-existing hacking tools without deep understanding.
+
+Hacking Phases:
+
+Reconnaissance: Gathering intelligence about the target system.
+
+Scanning: Identifying vulnerabilities, open ports, and services.
+
+Gaining Access: Exploiting system weaknesses to gain unauthorized access.
+
+Maintaining Access: Establishing backdoors for ongoing control.
+
+Clearing Tracks: Erasing traces to avoid detection and ensure continued access.
+
+Common Cyber Threats:
+
+Malware (Viruses, Worms, Trojans)
+
+Ransomware
+
+Spyware and Adware
+
+Social Engineering
+
+Insider Threats
+
+Zero-Day Vulnerabilities
+
+Popular Hacking Techniques:
+
+Phishing: Deceptive attempts to obtain sensitive information through fraudulent communication.
+
+Man-in-the-Middle Attack: Intercepting and potentially altering data in transit.
+
+Keylogging: Recording user keystrokes to steal credentials.
+
+Brute Force Attack: Attempting all possible password combinations to gain access.
+
+Session Hijacking: Taking control of an active user session.
+
+SQL Injection: Inserting malicious code into SQL queries to manipulate databases.
+
+Cybersecurity Teams:
+
+Red Team: Simulates cyberattacks to assess and challenge defenses.
+
+Blue Team: Focuses on defending and responding to real attacks.
+
+Purple Team: Bridges communication between the red and blue teams to improve defense mechanisms.
+
+(Optional) Yellow/Green Teams: Concentrates on security within the design and development stages.
+
+Additional Concepts Introduced:
+CIA Triad: Key principles of cybersecurity — Confidentiality, Integrity, Availability.
+
+Familiarization with common cybersecurity tools (Wireshark, Nmap, Burp Suite).
+
+The importance of robust passwords and two-factor authentication.
+
+Basic introduction to Linux terminal commands.
+
+Overview of virtual machines and Kali Linux for penetration testing.
+
+Introduction to ethical hacking principles, as well as relevant laws and regulations.
+
+Reflection:
+The first session offered a comprehensive overview of the cybersecurity landscape, introducing key concepts such as hacker types, hacking techniques, and common security threats. The material presented a strong theoretical framework that serves as a solid foundation for the practical skills we’ll be learning in future sessions. It was a good blend of foundational knowledge with real-world relevance, setting the stage for more hands-on activities in the days to come.
